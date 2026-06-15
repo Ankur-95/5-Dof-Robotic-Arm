@@ -1,6 +1,6 @@
 # 🤖 5-DOF Robotic Arm
 
-A project focused on designing and controlling a 5-degree-of-freedom robotic manipulator using Arduino-based PWM actuation and a custom serial communication protocol.
+A project focused on designing and controlling a 3D manfactured 5-degree-of-freedom robotic manipulator using Arduino-based PWM actuation and a custom serial communication protocol.
 
 ---
 
@@ -19,7 +19,7 @@ The system enables precise joint-level positioning through serial command parsin
 ---
 
 ## ⚙️ Key Features
-
+- 3D Manufactured 
 - 5-DOF serial kinematic chain  
 - Differential gripper with 180° inversion logic  
 - Lightweight string-based serial protocol  
